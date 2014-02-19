@@ -1,0 +1,16 @@
+/* this is a comment in CSS */
+/* classes start with a "." and id's start with a "#" */
+/* you can add as many styling properties to your classes/id's as you want */
+/* each property should be formatted like this. each property should go on it's own line: name_of_property: value; */
+
+
+/*font-family: 'Press Start 2P', cursive;*/
+
+.videos {
+	width: 700px;
+	height: 400px;
+}
+
+.list {
+	font-size: 200%;
+}
