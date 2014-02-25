@@ -19,3 +19,17 @@ body {
 	background-image: url('../images/background.png');
 	background-repeat: repeat-x;
 }
+
+.video_game {
+	width: 920px;
+	height: 670px;
+	overflow: hidden;
+	margin-left: -220px;
+	margin-top: -135px;
+}
+
+.video_game_div {
+	max-width: 1000px;
+	overflow: hidden;
+	margin: 15px 0px;
+}
