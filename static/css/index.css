@@ -11,6 +11,10 @@
 	height: 400px;
 }
 
+li a {
+	color: #4BE0FF;
+}
+
 .list {
 	font-size: 200%;
 }
@@ -19,14 +23,20 @@ body {
 	background: url('../images/background.png') top left repeat-x, url("../images/mine_background.png") bottom left repeat-x;
 }
 
-.video_game {
+#video_game1 {
 	width: 920px;
 	height: 670px;
 	overflow: hidden;
 	margin-left: -220px;
 	margin-top: -135px;
 }
-
+#video_game2 {
+	width: 825px;
+	height: 825px;
+	overflow: hidden;
+	margin-left: -170px;
+	margin-top: -375px;
+}
 .video_game_div {
 	max-width: 1000px;
 	overflow: hidden;
